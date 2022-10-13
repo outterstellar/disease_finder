@@ -1,16 +1,15 @@
-# disease_finder
+# Disease Finder
 
-This is an app that finds your disease according to your symptoms.
+This is an app that finds your disease according to your symptoms. This app calculates the percentage of disease according to your symptoms and sorts diseases that can infecting you. You can select symptoms from lots of choices.  This app is 9th Grade Health and Traffic lesson project.
 
-## Getting Started
+Important Note : This app is not a medical app. This application can estimate your infection based on your symptoms but  results can be false. 
 
-This project is a starting point for a Flutter application.
+Important Note : The information in this application has been researched and collected from different sources
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Photos From App
+<p>
+  <img src="screenshots/Screenshot_1665168536.png" width="150" title="Main Screen">
+  <img src="screenshots/Screenshot_1665168661.png" width="150" title="Symptoms Screen">
+  <img src="screenshots/Screenshot_1665168671.png" width="150" title="Results Screen">
+  <img src="screenshots/Screenshot_1665168561.png" width="150" title="Details Screen">  
+</p>
