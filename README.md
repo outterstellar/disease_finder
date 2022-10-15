@@ -8,8 +8,8 @@ Important Note : The information in this application has been researched and col
 
 # Photos From App
 <p>
-  <img src="screenshots/Screenshot_1665168536.png" width="150" title="Main Screen">
-  <img src="screenshots/Screenshot_1665168661.png" width="150" title="Symptoms Screen">
-  <img src="screenshots/Screenshot_1665168671.png" width="150" title="Results Screen">
-  <img src="screenshots/Screenshot_1665168561.png" width="150" title="Details Screen">  
+  <img src="screenshots/Screenshot_1665845286.png" width="150" title="Main Screen">
+  <img src="screenshots/Screenshot_1665845343.png" width="150" title="Symptoms Screen">
+  <img src="screenshots/Screenshot_1665845350.png" width="150" title="Results Screen">
+  <img src="screenshots/Screenshot_1665845371.png" width="150" title="Details Screen">  
 </p>
